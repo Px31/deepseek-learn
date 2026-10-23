@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Runtime data (all auto-created on backend startup)
+backend/chroma_db/
+backend/static/
+backend/voices/
+
+# Local config & logs
+.env
+*.log
